@@ -1,0 +1,61 @@
+
+table{
+   
+    width:  100%;
+    color: white;
+    
+}
+table , tr ,td{
+    border-collapse: collapse;
+    border: 1px solid white;
+}
+.th tr td{
+   background-color:  rgb(40,100,100);
+
+}
+tr{
+    height: 40px;
+background-color: grey;
+}
+
+ tr td .del{
+    background-color: rgb(155, 34, 34);
+    color: white;
+     
+}
+  tr td .upd{
+    background-color: rgb(79, 79, 184);
+    color: white;
+  
+}
+button{
+    color:white;
+
+}
+form{
+  position: absolute;
+  margin-left: 30%;  
+}
+      .main-page{
+   background-color: rgb(255,255,200);
+   margin-top: 10%;
+   box-shadow: 10px 10px 15px rgba(0,0,0,0.5);
+ padding-left: 50px;
+  border-radius:  50px 0 0 50px;
+   margin-left:21%;
+       }
+       .body{
+        background-color: antiquewhite;
+        margin-top: 5%;
+   box-shadow: 10px 10px 15px rgba(0,0,0,0.5);
+
+   margin-left:21%;
+       }
+       #department{
+        margin-bottom:20px;
+       }
+       .student-table{
+        margin-top: 20px;
+          background-color: rgb(255,255,200);
+       }
+       

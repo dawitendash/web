@@ -1,0 +1,22 @@
+form{
+     background-color: rgb(255,255,200);
+    color: black;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 300px;
+    height: 300px;
+    margin-left: 30%;
+    border-radius: 50px 0 0 50px;
+    margin-bottom: 50px;
+}
+form div{
+    display: block;
+    margin-bottom: 10px;
+
+}
+  
+
+ 
+
+
+
